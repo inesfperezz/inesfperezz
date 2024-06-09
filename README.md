@@ -9,5 +9,5 @@ My name is Inés Faro, i'm currently studying Computer Engineering at UDC (Unive
 
 ## Skills 🛠
 
-![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) 
+![Python](https://www.python.org/)![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) 
 
