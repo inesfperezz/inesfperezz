@@ -7,4 +7,7 @@ My name is Inés Faro, i'm currently studying Computer Engineering at UDC (Unive
 - **Deep Learning:** Exploring the depths of neural networks and their capabilities to solve complex problems.
 - **Computer Vision:** Using AI to enable machines to see, interpret, and make decisions based on visual inputs, opening up new possibilities in automation and innovation.
 
+## Skills 🛠
+
+![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) 
 
