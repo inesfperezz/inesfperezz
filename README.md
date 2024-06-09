@@ -23,5 +23,5 @@ My name is Inés Faro, i'm currently studying Computer Engineering at UDC (Unive
 
 ## Contact me
 <p>
-  <a href="https://www.linkedin.com/in/ines-faro-perez-0062bb236/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="linkedin" width="50" height="50"/> </a>
+  <a href="https://www.linkedin.com/in/ines-faro-perez-0062bb236/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="linkedin" width="80" height="80"/> </a>
 </p>
